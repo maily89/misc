@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Kể chuyện cho bé – VOV</title>
+    <link>https://vov.vn/podcast/ke-chuyen-cho-be</link>
+    <description>Những câu chuyện và bài hát nhẹ nhàng cho bé trước khi ngủ</description>
+    <language>vi-VN</language>
+    <itunes:author>VOV</itunes:author>
+    <itunes:subtitle>Truyện kể và ru ngủ</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>VOV</itunes:name>
+      <itunes:email>noreply@vov.vn</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Kids & Family"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>Hạt giống hoa mùa xuân</title>
+      <description><![CDATA[Tập “Hạt giống hoa mùa xuân” trong chương trình “Kể chuyện và hát ru” phát ngày 21/02/2025.]]></description>
+      <pubDate>Fri, 21 Feb 2025 08:38:15 +0700</pubDate>
+      <enclosure url="https://media.vov.vn/sites/default/files/2025-02/v2_0102_21h45_ke_chuyen_va_hat_ru_32202518.mp3"
+                 length="14404224"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://media.vov.vn/sites/default/files/2025-02/v2_0102_21h45_ke_chuyen_va_hat_ru_32202518.mp3</guid>
+      <itunes:duration>00:10:00</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+  </channel>
+</rss>
